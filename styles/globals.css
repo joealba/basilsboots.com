@@ -13,8 +13,15 @@ body {
 }
 
 @font-face {
-  font-family: 'GochiHand';
-  src: url('/fonts/GochiHand-Regular.ttf');
+  font-family: 'IndieFlower';
+  src: url('/fonts/IndieFlower-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NanumPenScript';
+  src: url('/fonts/NanumPenScript-Regular.ttf');
   font-weight: 400;
   font-style: normal;
 }
@@ -33,7 +40,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: GochiHand, sans-serif;
+  font-family: IndieFlower, sans-serif;
 }
 
 a {

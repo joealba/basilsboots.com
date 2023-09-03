@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Basil's Boots -- Hand-restored and restyled boots and accessories" />
+        <Header title="Welcome to Basil's Boots" />
+        <h2>Hand-restored and restyled boots and accessories</h2>
         <div className="hero">
           <img src="/img/hero.jpg" />
         </div>
