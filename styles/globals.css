@@ -12,6 +12,13 @@ body {
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'GochiHand';
+  src: url('/fonts/GochiHand-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
 main {
   padding: 1em 0;
   flex: 1;
@@ -26,6 +33,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-family: GochiHand, sans-serif;
 }
 
 a {
@@ -37,4 +45,8 @@ a {
   flex-direction: column;
   justify-content: center;
   max-width: 50%;
+}
+
+.description {
+  font-size: 1.6em;
 }
