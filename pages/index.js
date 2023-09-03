@@ -11,12 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Basil's Boots!" />
+        <Header title="Welcome to Basil's Boots -- Hand-restored and restyled boots and accessories" />
         <div className="hero">
           <img src="/img/hero.jpg" />
         </div>
         <div className="description">
-          <h3>See my work on:</h3>
+          <h3>See and purchase my work on:</h3>
           <ul>
             <li><a href="https://www.facebook.com/basilsboots">Facebook</a></li>
             <li><a href="https://www.instagram.com/basilsboots">Instagram</a></li>
