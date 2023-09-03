@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to Basil's Boots" />
         <h2 style={{'text-align': 'center'}}>Hand-restored and restyled boots and accessories</h2>
         <div style={{'text-align': 'center'}}>
-          <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fbasilsboots&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435" scrolling="yes" style={{border: 'none', overflow: 'hidden', width: '500px', height: '430px', background: 'white', float: 'left'}} ></iframe>
+          <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fbasilsboots&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435" scrolling="yes" style={{border: 'none', overflow: 'hidden', width: '500px', height: '430px', background: 'white', float: 'left'}} ></iframe>
         </div>
         <div className="description">
           <h3>See and purchase my work on:</h3>
