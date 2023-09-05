@@ -14,15 +14,15 @@ body {
 @font-face {
   font-family: 'IndieFlower';
   src: url('/fonts/IndieFlower-Regular.ttf');
-  font-weight: 400;
-  font-style: normal;
 }
 
 @font-face {
   font-family: 'NanumPenScript';
   src: url('/fonts/NanumPenScript-Regular.ttf');
-  font-weight: 400;
-  font-style: normal;
+}
+
+h1, h2 {
+  letter-spacing: normal;
 }
 
 main {
