@@ -25,6 +25,22 @@ h1, h2 {
   letter-spacing: normal;
 }
 
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2.0rem;
+}
+
+li {
+  margin-bottom: 0;
+}
+
+.heading {
+  text-align: center;
+}
+
 main {
   padding: 1em 0;
   flex: 1;

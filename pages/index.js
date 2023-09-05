@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Basil's Boots" />
         <div className="row">
-          <div className="twelve columns">
+          <div className="twelve columns heading">
+            <h1>Basil's Boots</h1>
             <h2 style={{'text-align': 'center'}}>Hand-restored and restyled boots and accessories</h2>
           </div>
         </div>
